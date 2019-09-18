@@ -1,0 +1,26 @@
+site_name: Starting Deck
+site_url: https://shasooka.github.io/StartingDeck
+site_author: Gaurav Sood
+
+# Copyright
+copyright: 'Copyright &copy; 2019 Shasooka'
+
+theme:
+  name: 'material'
+
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Page tree
+nav:
+  - Welcome: index.md
+  - Ideas:
+    - WebCrawler: ideas/web-crawler.md
+    - OPA: ideas/opa.md
+  - Documentation:
+    - WebCrawler: documentation/web-crawler.md
+    - OPA: documentation/opa.md
