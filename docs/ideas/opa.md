@@ -1,3 +1,3 @@
 Idea -
 
-can we have a single opa service where we can define all controls in one place and any change should go via these policies
+Policy as a service to enable guardrails, automatic enforcement of organization policies on top of any implementation
