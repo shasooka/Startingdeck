@@ -21,6 +21,7 @@ nav:
   - Ideas:
     - WebCrawler: ideas/web-crawler.md
     - OPA: ideas/opa.md
+    - SafeBrowsing: ideas/safe-browsing.md
   - Documentation:
     - WebCrawler: documentation/web-crawler.md
     - OPA: documentation/opa.md
